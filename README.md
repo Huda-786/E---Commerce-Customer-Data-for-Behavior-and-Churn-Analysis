@@ -1,4 +1,4 @@
-This project contains a Google Colab (ipynb) notebook for analyzing customer behaviour and predicting whether they would churn or not.
+This project contains a Google Colab (ipynb) notebook for analyzing customer behaviour and predicting whether they would churn or not. (Group Project).
 In order to view the notebook, install the ipynb file on google colab. (Or you can access the link below)
 
 https://colab.research.google.com/drive/1_k2lkok2IGkrI6iJh1Kv6FqODqRbxOrP?usp=sharing
